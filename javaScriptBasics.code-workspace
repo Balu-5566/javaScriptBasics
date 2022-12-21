@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "ohrm",
+			"path": "../Users/btalupuri/gitpaths/ohrm"
+		}
+	],
+	"settings": {
+		"git.allowNoVerifyCommit": true
+	}
+}
